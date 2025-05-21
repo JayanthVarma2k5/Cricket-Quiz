@@ -1,0 +1,84 @@
+[
+  {
+    "question": "Who is known as the 'God of Cricket' in India?",
+    "options": ["Virat Kohli", "MS Dhoni", "Kapil Dev", "Sachin Tendulkar"],
+    "answer": 3
+  },
+  {
+    "question": "Which Indian cricketer hit six sixes in an over in T20I?",
+    "options": ["Rohit Sharma", "Suryakumar Yadav", "Yuvraj Singh", "Hardik Pandya"],
+    "answer": 2
+  },
+  {
+    "question": "In which year did India win its first Cricket World Cup?",
+    "options": ["1975", "1983", "1992", "2003"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the captain of India during the 2011 World Cup victory?",
+    "options": ["Virat Kohli", "MS Dhoni", "Rahul Dravid", "Sourav Ganguly"],
+    "answer": 1
+  },
+  {
+    "question": "Which Indian bowler took 10 wickets in a single Test innings?",
+    "options": ["Anil Kumble", "Harbhajan Singh", "Ravichandran Ashwin", "Jasprit Bumrah"],
+    "answer": 0
+  },
+  {
+    "question": "Where is the BCCI headquarters located?",
+    "options": ["Delhi", "Kolkata", "Chennai", "Mumbai"],
+    "answer": 3
+  },
+  {
+    "question": "Who holds the record for the highest individual score in ODIs for India?",
+    "options": ["Virender Sehwag", "Rohit Sharma", "MS Dhoni", "Sachin Tendulkar"],
+    "answer": 1
+  },
+  {
+    "question": "Which Indian cricketer is nicknamed 'The Wall'?",
+    "options": ["Sunil Gavaskar", "Rahul Dravid", "KL Rahul", "Cheteshwar Pujara"],
+    "answer": 1
+  }
+]
+[
+  {
+    "question": "In which year did Virat Kohli make his international debut for India?",
+    "options": ["2006", "2007", "2008", "2009"],
+    "answer": 2
+  },
+  {
+    "question": "Against which team did Virat Kohli score his first international century?",
+    "options": ["Australia", "Sri Lanka", "West Indies", "Bangladesh"],
+    "answer": 1
+  },
+  {
+    "question": "Which IPL team does Virat Kohli play for?",
+    "options": ["Mumbai Indians", "Delhi Capitals", "Chennai Super Kings", "Royal Challengers Bangalore"],
+    "answer": 3
+  },
+  {
+    "question": "Virat Kohli led India to its first Test series win in Australia in which year?",
+    "options": ["2016", "2017", "2018", "2019"],
+    "answer": 2
+  },
+  {
+    "question": "What jersey number does Virat Kohli wear?",
+    "options": ["7", "10", "18", "45"],
+    "answer": 2
+  },
+  {
+    "question": "Who succeeded Virat Kohli as India’s T20I captain in 2021?",
+    "options": ["KL Rahul", "Rohit Sharma", "Hardik Pandya", "Shikhar Dhawan"],
+    "answer": 1
+  },
+  {
+    "question": "Which award did Virat Kohli win in 2018 for his outstanding performance?",
+    "options": ["Rajiv Gandhi Khel Ratna", "Padma Shri", "Arjuna Award", "Padma Bhushan"],
+    "answer": 0
+  },
+  {
+    "question": "What is Virat Kohli's highest individual score in ODIs (as of 2024)?",
+    "options": ["183", "197", "212", "254"],
+    "answer": 0
+  }
+]
